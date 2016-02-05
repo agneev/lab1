@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/introHCI":{"mount_options":["dmode=775,fmode=0700"],"guestpath":"/home/vagrant/introHCI","hostpath":"C:/Users/Agneev/lab1/introHCI","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Agneev/lab1/introHCI","disabled":false,"__vagrantfile":true}}}
