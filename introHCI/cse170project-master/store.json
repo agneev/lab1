@@ -1,0 +1,89 @@
+{
+	"stores":[
+	{
+		"store-id":1,
+		"store-name":"Ralphs",
+		"store-info" : "General store info of Ralphs",
+		"logo" : " ",
+		"user-lists" :{
+			"lists":[
+					{
+						"id": "list1",
+						"title": "General Groceries",
+						"date": "January 9, 2016",
+						"category-list":{
+									"fruits":[
+											{"fapp":"Apples"},
+											{"foran":"Oranges"},
+											{"fstraw":"Strawberries"}
+											],
+									"dairy" :[
+											{"2milk":"Milk"},
+											{"yogurt":"Yogurt"},
+											{"cheese":"Cheese"}
+											]}
+					},
+					{
+						"id": "list2",
+						"title": "Medicines",
+						"date": "January 12,2016",
+						"category-list":{
+									"fruits":[
+											{"fapp":"Apples"},
+											{"foran":"Oranges"},
+											{"fstraw":"Strawberries"}
+											],
+									"dairy" :[
+											{"2milk":"Milk"},
+											{"yogurt":"Yogurt"},
+											{"cheese":"Cheese"}
+											]}	
+					}
+					]	
+		}
+	},
+
+	{
+		"store-id":2,
+		"store-name":"CVS",
+		"store-info" : "General store info of CVS",
+		"logo" : " ",
+		"user-lists" :{
+			"lists":[
+					{
+						"id": 1,
+						"title": "General Groceries",
+						"date": "January 9, 2016",
+						"category-list":{
+									"fruits":[
+											{"fapp":"Apples"},
+											{"foran":"Oranges"},
+											{"fstraw":"Strawberries"}
+											],
+									"dairy" :[
+											{"2milk":"Milk"},
+											{"yogurt":"Yogurt"},
+											{"cheese":"Cheese"}
+											]}
+					},
+					{
+						"id": 2,
+						"title": "Medicines",
+						"date": "January 12,2016",
+						"category-list":{
+									"fruits":[
+											{"fapp":"Apples"},
+											{"foran":"Oranges"},
+											{"fstraw":"Strawberries"}
+											],
+									"dairy" :[
+											{"2milk":"Milk"},
+											{"yogurt":"Yogurt"},
+											{"cheese":"Cheese"}
+											]}	
+					}
+					]	
+		}
+	}
+	]
+}

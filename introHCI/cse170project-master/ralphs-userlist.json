@@ -1,0 +1,36 @@
+[
+	{
+		"id": 1,
+		"title": "General Groceries",
+		"date": "January 9, 2016",
+		"category-list":{
+					"fruits":[
+							{"fapp":"Apples"},
+							{"foran":"Oranges"},
+							{"fstraw":"Strawberries"},
+							],
+					"dairy" :[
+							{"2milk":"Milk"},
+							{"yogurt":"Yogurt"},
+							{"cheese":"Cheese"}
+							]
+					}	
+	},
+	{
+		"id": 2,
+		"title": "Medicines",
+		"date": "January 12,2016",
+		"category-list":{
+					"fruits":[
+							{"fapp":"Apples"},
+							{"foran":"Oranges"},
+							{"fstraw":"Strawberries"},
+							],
+					"dairy" :[
+							{"2milk":"Milk"},
+							{"yogurt":"Yogurt"},
+							{"cheese":"Cheese"}
+							]
+					}	
+	}
+]
